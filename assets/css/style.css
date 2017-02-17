@@ -1,0 +1,17 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background:;
+	font-size: 15px;
+	line-height: 20px;
+	font-family: 'Arial', "Helvetica Neue", Helvetica, Sans-serif;
+	color: #777;
+	} 
+	
+h1 {
+	font-size: 36px;
+	text-align: center;
+	font-family: "cursive";
+}	
